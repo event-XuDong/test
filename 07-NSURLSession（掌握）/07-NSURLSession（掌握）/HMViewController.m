@@ -17,7 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    //hi:
+    // Do any additional setup after loading the view, typically from a nib.
 }
 
 // 任务：任何请求都是一个任务
